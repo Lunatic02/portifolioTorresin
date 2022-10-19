@@ -1,0 +1,12 @@
+@import './global.css';
+@import './header.css';
+@import './introducao.css';
+@import './experiencia.css';
+@import './formacao.css';
+@import './footer.css';
+
+.marca{ 
+    font-weight: bold;
+    font-size: 32px;
+    color: #141414;
+}
