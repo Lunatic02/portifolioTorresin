@@ -3,6 +3,10 @@
 <h5>Futuras atualizações neste portifólio</h5>
 <p>Aberto a trabalhos e participações em projétos</p>
 Minhas Redes sociais e endereços de contato.
+<H1>Torresin Potifolio</H1>
+<h4>Created to show my projects.</h4>
+<p>Open for projects.</p>
+Mine social medias and contacts.
 <ul>
 <li><a href='https://www.instagram.com/lucas_torresin/'>Instagram</a></li>
 <li><a href='https://www.linkedin.com/in/lucas-torresin-0052b9207/'>Linkedin</a></li>
